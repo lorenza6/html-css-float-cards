@@ -1,0 +1,17 @@
+header {
+  color: rgb(165, 42, 69);
+  text-align: center;
+}
+main {
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 3%;
+}
+.container {
+  margin-right: 20%;
+  margin-left: 20%;
+}
+body {
+  font-family: "Fredoka";
+}
